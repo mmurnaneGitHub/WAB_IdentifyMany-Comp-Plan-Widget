@@ -7,3 +7,4 @@ INSTRUCTIONS:
 1. Copy folder IdentifyMany to \widgets\IdentifyMany
 2. Copy jimu.css to \jimu.js\css\jimu.css
 
+Note: Text defaults contained in \widgets\IdentifyMany\nls\strings.js.
