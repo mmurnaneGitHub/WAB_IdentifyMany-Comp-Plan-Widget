@@ -5,6 +5,6 @@ Version 2.12
 
 INSTRUCTIONS:
 1. Copy folder IdentifyMany to \widgets\IdentifyMany
-2. Copy jimu.css to \jimu.js\css\jimu.css
+2. Copy jimu.css and popup.css to folder \jimu.js\css
 
 Note: Text defaults contained in \widgets\IdentifyMany\nls\strings.js.
