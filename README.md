@@ -3,7 +3,7 @@ Identify Widget for FLUM, One Tacoma, and Tideflats Subarea Plan. Control button
 
 !! See WAB_IdentifyMany-Tideflats_SP-Widget for combining in the future. !!
 
-Version 2.12
+Version 2.13
 
 INSTRUCTIONS:
 1. Copy folder IdentifyMany to \widgets\IdentifyMany
