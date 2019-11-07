@@ -1,5 +1,5 @@
 ## WAB_IdentifyMany-Comp-Plan-Widget
-Identify Widget for FLUM, One Tacoma, and Tideflats Subarea Plan. Control button size and image margin with jimu.css (including Summary Widget). 
+Identify Widget for FLUM Implementation (https://wspdsmap.cityoftacoma.org/website/FLUM/), One Tacoma, and Tideflats Subarea Plan. Control button size and image margin with jimu.css (including Summary Widget). 
 
 !! See WAB_IdentifyMany-Tideflats_SP-Widget for combining in the future. !!
 
